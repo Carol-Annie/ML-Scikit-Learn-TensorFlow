@@ -3,3 +3,4 @@ Algoritmos desenvolvidos conforme vou estudando, aplicando e desenvolvendo algor
 - Mecanismos de estudo
   - 📚 Mão à obra: Aprendizado de máquina com Scikit-learn, Keras & tensorflow.
   - 👩‍💻 Tutorias no Youtube e cursos (https://coursera.org/share/5a1ce9e40fe405a5306bc2ca130ad4c4).
+  - Trilha Jovem Cientista de dados fornecidos pela Dell Lead (https://leadfortaleza.com.br/portal).
